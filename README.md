@@ -1,8 +1,3 @@
-### <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I am a full-stack web developer.
-
-
-
-
 ###  <img src="https://media.giphy.com/media/06URZ07ghkLOiziKPr/giphy.gif" width="200">   
 
 ```javascript
