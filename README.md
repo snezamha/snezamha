@@ -4,13 +4,12 @@
 const SeyedNezameddin_HassaniAghda = {     
     pronouns: "He" | "Him",     
     youCanCallMe: "Nezam"
-    language: ["javaScript", "typeScript"],         
+    language: ["javaScript", "typeScript", "php", "python"],         
     myStack: {             
-        backEnd: {             
-          frameworks: ["Express.js", "Nest.js"],                   
+        backend: {             
+          frameworks: ["Express.js", "Nest.js", "Codeigniter", "Django"],                   
           DataBases: ["MongoDB", "MySQL"],
           API: ["postman", "swagger"],
-          
         },         
         frontEnd: {             
           frameworks: ["ReactJs, NextJs"],         
